@@ -6,7 +6,7 @@ In NYC the five boroughs have various activities and venues. Their descriptions 
 <br>
 
 ## **Contributors:**
-<li>Bryan Garrett, github id BuckG71</li>  
+<li>Bryan Garrett, github id BuckG71   https://github.com/BuckG71/nyc-guide</li>  
 <li>Manuela Farhi, github id 1mfarhi</li>  
 <br>
 <br>
